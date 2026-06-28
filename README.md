@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="PANDA Logo" width="280"/>
+  <img src="./logo.png" alt="PANDA Logo" width="400"/>
 
   <h1>PANDA</h1>
   <h3>Paper-Aware Dataset Acquisition</h3>
